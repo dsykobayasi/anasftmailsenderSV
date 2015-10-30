@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ANASOFTMAILConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=218.251.113.60;Initial Catalog=ANASOFTMAIL;Persist Security Info=True;User ID=sa;Password=HBeiK3wR&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=218.251.113.60;Initial Catalog=ANASOFTMAIL;Persist Security Info=True;User ID=sa;Password=HBeiK3wR</Value>
+    </Setting>
+    <Setting Name="MailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anasoftmail@bell.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="MailPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AnasoftMa!!</Value>
+    </Setting>
+    <Setting Name="POPServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pop.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="POPPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">110</Value>
+    </Setting>
+    <Setting Name="POPAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anasoftmail@bell.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="POPPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AnasoftMa!!</Value>
+    </Setting>
+    <Setting Name="SMTPServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="SMTPPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="SMTPAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anasoftmail@bell.ocn.ne.jp</Value>
+    </Setting>
+    <Setting Name="SMTPPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AnasoftMa!!</Value>
+    </Setting>
+    <Setting Name="MailName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">互當　穴ノ守</Value>
+    </Setting>
+    <Setting Name="SpecialDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">docomo.ne.jp</Value>
+    </Setting>
+    <Setting Name="UpdateFlgSql" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UPDATE T_MAIL SET SEND_FLG = -1, SEND_DATE = GETDATE() WHERE MAIL_CODE = '@MAIL_CODE' </Value>
+    </Setting>
+    <Setting Name="ErrorLogSql" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">INSERT INTO W_SEND_LOG (SEND_GROUP_CODE,MAIL_CODE,MAIL_ADDRESS,USER_NAME,SEND_DATE) VALUES (@SEND_GROUP_CODE,@MAIL_CODE,'@MAIL_ADDRESS','@USER_NAME',GETDATE())
+</Value>
+    </Setting>
+    <Setting Name="SleepTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

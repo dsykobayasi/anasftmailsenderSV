@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.13" name="anasftmailsenderSV.exe" publicKeyToken="69e297cbe355e509" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="anasftmailsenderSV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="anasftmailsenderSV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC マニフェスト オプション
+             Windows のユーザー アカウント制御のレベルを変更するには、
+             requestedExecutionLevel ノードを以下のいずれかで置換します。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            下位互換性のためにファイルおよびレジストリの仮想化を
+            利用する場合は、requestedExecutionLevel ノードを削除してください。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="anasftmailsenderSV.exe" size="164352">
+      <assemblyIdentity name="anasftmailsenderSV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>255uV0DHRlbQOQAscGWfjemBs+0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="anasftmailsenderSV.exe.config" size="5565">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gx7G6N3vha8vi2i4Y6WXh30ITT4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MA785GM-1\daira9" issuerKeyHash="86b10f8b8deaeee8a36c7a7695747deff033bc3d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Nzt8afNdHkX3NhiSOlkXXAi2f1k=</DigestValue></Reference></SignedInfo><SignatureValue>GYk3m9UojE9lOPnAIniP740l7s2S4n59Pj5OwPhS7hA4Skwmy5GJMQHmquQM1gBxqsB1jvz5U/mJ5LNl4OTB4baOyD46yfzjNMNLUCHKmXCBe0PoLwLmEUwmG0mwDYQ/tX1NGtcOvm1AXmGuamZc8XRuNQcoCkgnmTOGM+rpGzc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wzhVF7S8cjrgF2iRqWVWQURUsRoBu/M333SQqUrfxJjQiCyHaZAJ/F735k/92a14uk492doyIXd/ux1bgp156jtsKZgqalIGHNHlnc8w+kGU5vp/3pA1pQnLhosi8Ak8CyKrqKrWs/53dSe1QcfJDTmHa5OZ+LFW7r61hHEQc50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="597fb6085c17593a921836f7451e5df3697c3b37" Description="" Url=""><as:assemblyIdentity version="1.0.0.13" name="anasftmailsenderSV.exe" publicKeyToken="69e297cbe355e509" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MA785GM-1\daira9</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>s5zhp9ZzeHMmy+sV36dwrxKJWCQ=</DigestValue></Reference></SignedInfo><SignatureValue>QmC077CEirFKy1Q9o+N3pFki4X2p4ReHm+rW+5xNu3Bu8x4z66rhy8KSE79+nDdK1+gmjZiaSXyTL9z8t2zl1MzYxSIZHFIEEQGXcIahAQS3iI9tHtoBgUjqf2V4/HRPxOztjnZ37ZMTyKtBBIR7MlwscRfEhXswVQYjAt1tbHs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wzhVF7S8cjrgF2iRqWVWQURUsRoBu/M333SQqUrfxJjQiCyHaZAJ/F735k/92a14uk492doyIXd/ux1bgp156jtsKZgqalIGHNHlnc8w+kGU5vp/3pA1pQnLhosi8Ak8CyKrqKrWs/53dSe1QcfJDTmHa5OZ+LFW7r61hHEQc50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQENzJHP/WGJ5H5NP48nVXXDANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAATQBBADcAOAA1AEcATQAtADEAXABkAGEAaQByAGEAOTAeFw0xNTAzMTIxMjAxMDZaFw0xNjAzMTExODAxMDZaMCsxKTAnBgNVBAMeIABNAEEANwA4ADUARwBNAC0AMQBcAGQAYQBpAHIAYQA5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDOFUXtLxyOuAXaJGpZVZBRFSxGgG78zffdJCpSt/EmNCILIdpkAn8XvfmT/3ZrXi6Tj3Z2jIhd3+7HVuCnXnqO2wpmCpqUgYc0eWdzzD6QZTm+n/ekDWlCcuGiyLwCTwLIquoqtaz/nd1J7VBx8kNOYdrk5n4sVbuvrWEcRBznQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFM5wZRXMyM4J5vgY1ohgh/ZwEF/HqWGB2FL2I9KEfvULyEBanSqp7paZ7PSUTC6V3D12wc7Na7+Ajw4B18kDh22dS1KgGpx7EAAX5dm3JKl4Bm2GBsCtN5/HGnRm8qWwEcz2SQtiyX4EMBW46qE6Z15BYmgxczS06sZ+4ehri7Q</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

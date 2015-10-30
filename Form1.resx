@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtBody.Text" xml:space="preserve">
+    <value>&lt;div style='font-family: "ms ui gothic", osaka, arial, sans-serif; font-size: 16px; background-color: #ffffff;'&gt;
+&lt;div dir="ltr"&gt;
+&lt;div dir="ltr"&gt;
+&lt;div dir="ltr"&gt;
+&lt;div class="yiv284757999WordSection1"&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2"&gt;※予想コース＆ソフトご購入お申し込み&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;span lang="EN-US"&gt;&lt;a shape="rect" href="http://www.ananokami-kantou.com/" target="_blank" rel="nofollow" style="outline: 0px; color: #551a8b; cursor: text;"&gt;&lt;font size="2" style="color: #0000ff;"&gt;http://www.ananokami-kantou.com/&lt;/font&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt; &lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2"&gt;※穴ノ守　&lt;span lang="EN-US"&gt;&lt;a shape="rect" href="mailto:support@ananokami.jp" target="_blank" rel="nofollow" ymailto="mailto:support@ananokami.jp" style="outline: 0px; color: #551a8b; cursor: text;"&gt;&lt;font style="color: #0000ff;"&gt;support@ananokamijp&lt;/font&gt;&lt;/a&gt; &lt;/span&gt;&lt;font style="color: #ff0000;"&gt;送信専用です&lt;/font&gt;。&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2" style="color: #ff0000;"&gt;返信はできませんのでご了承ください&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2" style="color: #ff0000;"&gt;ソフトメーカーさんが迷惑します。&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2" style="color: #ff0000;"&gt;ここへの返信はご遠慮下さい。&lt;/font&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt; &lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2" style="color: #ff0000;"&gt;★東京本部&lt;/font&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2" style="color: #234786;"&gt;&lt;a shape="rect" rel="nofollow" style="outline: 0px; text-decoration: underline;"&gt;&lt;u&gt;go6292000@yahoo.co.jp&lt;/u&gt;&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt; &lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2"&gt;&lt;span lang="EN-US"&gt;★&lt;/span&gt;午後２時過ぎても予想メールが届かない場合は&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2"&gt;メールでのお問い合わせではなく&lt;/font&gt;&lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px;"&gt;&lt;font size="2"&gt;&lt;font style="color: #ff0000;"&gt;０９０&lt;span lang="EN-US"&gt;-&lt;/span&gt;５３４８&lt;span lang="EN-US"&gt;-&lt;/span&gt;３２８５&lt;/font&gt;までご一報をお願い致します。&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="display: inline;"&gt;
+&lt;div&gt;&lt;/div&gt;&lt;div style="display: inline;"&gt;&lt;/div&gt;
+&lt;div class="yiv284757999MsoNormal" align="left" id="yiv284757999yui_3_2_0_1_13936325577211879" style="margin: 0mm 0mm 0pt;"&gt;&lt;font style="color: #454545;"&gt;&lt;font size="2"&gt;&lt;span lang="EN-US"&gt;    &lt;/span&gt;　&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id="yui_3_2_0_1_13943378734961936" style="font-family: calibri; font-size: small; display: inline; background-color: #ffffff;"&gt;
+&lt;div style='font-family: "meiryo ui"; font-size: 10pt;'&gt;
+&lt;div style='font-family: "ms ui gothic", osaka, arial, sans-serif !important;'&gt;&lt;/div&gt;&lt;div style="font-family: calibri; font-size: small; display: inline;"&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div id="yiv284757999yui_3_2_0_1_13943273801807087" dir="ltr" style="font-family: osaka, arial, sans-serif; font-size: 16px;"&gt;
+&lt;div id="yiv284757999yui_3_2_0_1_13943273801807086" style="font-family: calibri; font-size: 12pt;"&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt;&lt;font size="2" style='font-family: "ms ui gothic", osaka, arial, sans-serif !important;'&gt;&lt;span lang="EN-US"&gt;    &lt;/span&gt;　&lt;span lang="EN-US"&gt; &lt;/span&gt;【無料フリー予想】　　３月９日&lt;/font&gt;&lt;/p&gt;
+&lt;p align="left" id="yui_3_2_0_1_13943378734961935" style="margin: 0mm 0mm 0pt; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt; &lt;/p&gt;
+&lt;p id="yiv284757999yui_3_2_0_4_139244922738836" style="margin: 0px; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt;&lt;font size="2" style='font-family: "ms ui gothic", osaka, arial, sans-serif !important;'&gt;中山８&lt;span lang="EN-US"&gt;R →&lt;/span&gt;◆軸ー１２－１５－８－２&lt;span lang="EN-US"&gt;☆&lt;/span&gt;穴ー５－１１－９－６－４&lt;/font&gt;&lt;/p&gt;
+&lt;p align="left" style="margin: 0mm 0mm 0pt; padding: 0px; font-family: osaka, arial, sans-serif !important;"&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</value>
+  </data>
+  <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>212, 18</value>
+  </metadata>
+  <metadata name="ANASOFTMAILDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>24, 18</value>
+  </metadata>
+</root>

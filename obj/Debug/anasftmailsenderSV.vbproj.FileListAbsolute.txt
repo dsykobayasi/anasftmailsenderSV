@@ -1,0 +1,64 @@
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.config
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.pdb
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.xml
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Form1.resources
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Resources.resources
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.vbproj.GenerateResource.Cache
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.xml
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.pdb
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.manifest
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.application
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe.manifest
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.application
+C:\Users\daira9\Documents\Visual Studio 2008\Projects\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.TrustInfo.xml
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.config
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.xml
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.pdb
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.manifest
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.application
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.pdb
+H:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.xml
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\ResolveAssemblyReference.cache
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Form1.resources
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Resources.resources
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.vbproj.GenerateResource.Cache
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.TrustInfo.xml
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe.manifest
+H:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.application
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.config
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.xml
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.pdb
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.manifest
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.application
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.pdb
+D:\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.xml
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\ResolveAssemblyReference.cache
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Form1.resources
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Resources.resources
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.vbproj.GenerateResource.Cache
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.TrustInfo.xml
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe.manifest
+D:\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.application
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.config
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.xml
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.pdb
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe.manifest
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.application
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.exe
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.pdb
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\bin\Debug\anasftmailsenderSV.xml
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\ResolveAssemblyReference.cache
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Form1.resources
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.Resources.resources
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.vbproj.GenerateResource.Cache
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.TrustInfo.xml
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.exe.manifest
+\\Dairalbp770b\h\work\メール配信ソフト\anasftmailsenderSV\obj\Debug\anasftmailsenderSV.application
